@@ -23,5 +23,5 @@ first time with Control-click → Open.
 
 ## Early days
 
-Each device keeps a library of its own; they aren't shared yet. The app talks to the reading
-services through their private, unofficial web APIs, which can change or stop working at any time.
+Each device keeps a library of its own; they aren't shared yet. Sign in to each service inside the
+app and it imports your books from there.
